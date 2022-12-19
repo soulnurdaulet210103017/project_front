@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "../2022/javascript"
+		},
+		{
+			"path": "../2022/css_3/css_3"
+		},
+		{
+			"path": "../2022/css_4/css_4"
+		},
+		{
+			"path": "../2022/css_5/css_5"
+		},
+		{
+			"path": "../2022/css_6/css_6"
+		},
+		{
+			"path": "../2022/css_8/css_8"
+		},
+		{
+			"path": "../2022/js_DOM"
+		},
+		{
+			"path": "../2022/calculator"
+		},
+		{
+			"path": "../2022/methot_BEM"
+		},
+		{
+			"path": "../2022/flex_1"
+		},
+		{
+			"path": "../2022/css_position"
+		},
+		{
+			"path": "../2022/nft"
+		},
+		{
+			"path": "../FinalProject/project1"
+		},
+		{
+			"path": "../../ice_cream"
+		},
+		{
+			"path": "../2022/adaptation"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FrontendProject"
+	}
+}
